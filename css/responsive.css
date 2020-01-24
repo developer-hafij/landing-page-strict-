@@ -1,0 +1,197 @@
+/* Responsive For Mobile Devices */
+@media screen and (max-width: 500px){
+	header img {
+	    display: block;
+	    margin: 0 auto;
+	}	
+	.banner-section {
+	    padding: 110px 0px 0px;
+	}
+	.banner-section h1 {
+	    font-size: 65px;
+	    margin-bottom: -20px;
+	}
+	.header-border {
+	    border-bottom: 2px solid #15a4fa;
+	    margin: 30px 40px 18px 40px;
+	}
+	.banner-section p {
+	    font-size: 16px;
+	    width: 85%;
+	    display: block;
+	    margin: 0 auto;
+	}
+	.banner-section button {
+	    padding: 7px 26px;
+	}
+	.banner-section .fa-angle-down {
+	    font-size: 28px;
+	    margin-top: 75px;
+	    padding-bottom: 75px;
+	}
+	.simple-section h2 {
+	    font-size: 28px;
+	}
+	.simple-section p {
+	    width: 96%;
+	}
+	.more-section .col-md-4{
+		margin: 16px 0px;
+	}
+	.more-section h3 {
+	    margin: 8px 0px 0px 0px;
+	}
+	.more-section p {
+	    width: 86%;
+	    display: block;
+	    margin: 0px auto;
+	}
+	.showcase-section {
+	    padding: 50px 0;
+	    background: #f7f7f7;
+	}
+	.showcase-title h2 {
+	    font-size: 28px;
+	}
+	input[type=checkbox], input[type=radio] {
+	    margin: 5px 0px 0px 26%;
+	}
+	.col-7 p {
+	    text-align: center;
+	    margin: -8% 0% 0% 30%;
+	}
+	.col-5 button {
+	    margin-left: -42%;
+	    margin-top: -6px;
+	}
+
+	footer p {
+	    text-align: center;
+	    padding: 32px 0 0;
+	}
+	.footer-right {
+	    padding: 0px 0px 15px;
+	    text-align: center;
+	    margin-right: 33px;
+	}
+
+}
+
+
+/* Responsive For Tablet Devices */
+@media (min-width: 501px) and (max-width: 768px){
+	header img {
+	    display: block;
+	    margin: 0 auto;
+	}	
+	.banner-section {
+	    padding: 110px 0px 0px;
+	}
+	.banner-section h1 {
+	    font-size: 65px;
+	    margin-bottom: -20px;
+	}
+	.header-border {
+	    border-bottom: 2px solid #15a4fa;
+	    margin: 36px 20px 22px 20px;
+	}
+	.banner-section p {
+	    font-size: 16px;
+	    width: 85%;
+	    display: block;
+	    margin: 0 auto;
+	}
+	.banner-section button {
+	    padding: 7px 26px;
+	}
+	.banner-section .fa-angle-down {
+	    font-size: 28px;
+	    margin-top: 75px;
+	    padding-bottom: 75px;
+	}
+	.simple-section h2 {
+	    font-size: 28px;
+	}
+	.simple-section p {
+	    width: 96%;
+	}
+	.more-section .col-md-4{
+		margin: 16px 0px;
+	}
+	.more-section h3 {
+	    margin: 8px 0px 0px 0px;
+	}
+	.more-section p {
+	    width: 86%;
+	    display: block;
+	    margin: 0px auto;
+	}
+	.showcase-section {
+	    padding: 50px 0;
+	    background: #f7f7f7;
+	}
+	.showcase-title h2 {
+	    font-size: 28px;
+	}
+	input[type=checkbox], input[type=radio] {
+	    margin: 5px 0px 0px 30%;
+	}
+	.col-7 p {
+	    text-align: center;
+	    margin: -7% 0% 0% 30%;
+	}
+	.col-5 button {
+	    margin-left: -42%;
+	    margin-top: -6px;
+	}
+
+	footer p {
+	    text-align: center;
+	    padding: 32px 0 0;
+	}
+	.footer-right {
+	    padding: 0px 0px 15px;
+	    text-align: center;
+	    margin-right: 33px;
+	}
+
+}
+
+
+/* Responsive For NoteBook Devices */
+@media (min-width: 769px) and (max-width: 990px){
+	.header-border {
+	    margin: 0px 85px 22px 85px;
+	}
+	.banner-section h1 {
+	    font-size: 92px;
+	}
+	.simple-section p {
+	    width: 98%;
+	}
+	.more-section h3 {
+	    font-size: 22px;
+	    width: 85%;
+	    display: block;
+	    margin: 8px auto;
+	}
+	.more-section p {
+	    margin: 10px;
+	    width: 98%;
+	    display: block;
+	    margin: 0 auto;
+	}
+	.showcase-section {
+	    padding: 42px 0;
+	}
+	input[type=checkbox], input[type=radio] {
+	    margin: 5px 0px 0px 45%;
+	}
+	.contact-form p {
+	    margin-left: 53%;
+	}
+	.contact-form button {
+	    margin-left: -86px;
+	}
+	
+}
